@@ -22,7 +22,7 @@ final VoidCallback onPress;
               shape: BoxShape.circle,
               color: color,
             ),
-            height: 80,
+            height: 82,
             child: Center(
               child: Text(title , style:const TextStyle(fontSize: 20, color: Colors.white),),
             ),
