@@ -21,7 +21,8 @@ class _HomeScreenState extends State<HomeScreen> {
       body: SafeArea(
         child: Padding(
           padding: const EdgeInsets.symmetric(horizontal: 30 ),
-          child: Column(
+          child: Column
+            // fjdhsfsdfhsdfohsdf wrwe
             children: [
               Expanded(
                 child: Padding(
